@@ -1,5 +1,7 @@
-# WIP
 
+This is the code used on my MSc. dissertation. 
+
+This repo is still a work in progress, dont try to run it yet.
 
 ## Dependencies
 
